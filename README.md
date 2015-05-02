@@ -1,8 +1,3 @@
 # kitty
 
-test
-work
-
-FITTA
-FITTA
-FITTA
+test 1
